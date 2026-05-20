@@ -1,0 +1,186 @@
+// Hashes are optional
+// Please get hashes from No-Intro
+{
+	"AZLE": {
+		"internal-name": "GBAZELDA",
+		"hashes": [
+			{
+				"CRC32": "8e91cd13",
+				"MD5": "3287ca66e5cc285a9fe3a922051e84c6",
+				"SHA-1": "a272055abbbf6c26b0cd54c87395d01699589161"
+			}
+		],
+		"title": "The Legend of Zelda: A Link to the Past & Four Swords",
+		"ds-title": "The Legend of Zelda\nA Link to the Past & Four Swords",
+		"short-title": "A Link to the Past",
+		"publisher": "Nintendo"
+	},
+	"AZLP": {
+		"internal-name": "GBAZELDA",
+		"hashes": [
+			{
+				"CRC32": "5a164321",
+				"MD5": "9edf4f6e19d901d470aa1117cb0372b3",
+				"SHA-1": "3bb7f97ada7d60d8d334b271084effd1db853b32"
+			}
+		],
+		"title": "The Legend of Zelda: A Link to the Past & Four Swords",
+		"ds-title": "The Legend of Zelda\nA Link to the Past & Four Swords",
+		"short-title": "A Link to the Past",
+		"publisher": "Nintendo"
+	},
+	"BZME": {
+		"internal-name": "GBAZELDA MC",
+		"title": "The Legend of Zelda: The Minish Cap",
+		"ds-title": "The Legend of Zelda\nThe Minish Cap",
+		"short-title": "The Minish Cap",
+		"publisher": "Nintendo"
+	},
+	"BZMP": {
+		"internal-name": "GBAZELDA MC",
+		"title": "The Legend of Zelda: The Minish Cap",
+		"ds-title": "The Legend of Zelda\nThe Minish Cap",
+		"short-title": "The Minish Cap",
+		"publisher": "Nintendo"
+	},
+	"AMAE": {
+		"internal-name": "SUPER MARIOA",
+		"title": "Super Mario Advance",
+		"ds-title": "Super Mario Advance",
+		"short-title": "Super Mario Advance",
+		"publisher": "Nintendo"
+	},
+	"AA2E": {
+		"internal-name": "SUPER MARIOB",
+		"title": "Super Mario Advance 2: Super Mario World",
+		"ds-title": "Super Mario Advance 2\nSuper Mario World",
+		"short-title": "Super Mario World",
+		"publisher": "Nintendo"
+	},
+	"AA2P": {
+		"internal-name": "SUPER MARIOB",
+		"title": "Super Mario Advance 2: Super Mario World",
+		"ds-title": "Super Mario Advance 2\nSuper Mario World",
+		"short-title": "Super Mario World",
+		"publisher": "Nintendo"
+	},
+	"A3AE": {
+		"internal-name": "SUPER MARIOC",
+		"title": "Super Mario Advance 3: Yoshi's Island",
+		"ds-title": "Super Mario Advance 3\nYoshi's Island",
+		"short-title": "Yoshi's Island",
+		"publisher": "Nintendo"
+	},
+	"A3AP": {
+		"internal-name": "SUPER MARIOC",
+		"title": "Super Mario Advance 3: Yoshi's Island",
+		"ds-title": "Super Mario Advance 3\nYoshi's Island",
+		"short-title": "Yoshi's Island",
+		"publisher": "Nintendo"
+	},
+	"AX4E": {
+		"internal-name": "SUPER MARIOD",
+		"title": "Super Mario Advance 4: Super Mario Bros. 3",
+		"ds-title": "Super Mario Advance 4\nSuper Mario Bros. 3",
+		"short-title": "Super Mario Bros. 3",
+		"publisher": "Nintendo"
+	},
+	"A2CE": {
+		"internal-name": "CASTLEVANIA2",
+		"title": "Castlevania: Aria of Sorrow",
+		"ds-title": "Castlevania\nAria of Sorrow",
+		"short-title": "Aria of Sorrow",
+		"publisher": "KONAMI"
+	},
+	"A2CP": {
+		"internal-name": "CASTLEVANIA2",
+		"title": "Castlevania: Aria of Sorrow",
+		"ds-title": "Castlevania\nAria of Sorrow",
+		"short-title": "Aria of Sorrow",
+		"publisher": "KONAMI"
+	},
+	"ACHE": {
+		"internal-name": "CASTLEVANIA1",
+		"title": "Castlevania: Harmony of Dissonance",
+		"ds-title": "Castlevania\nHarmony of Dissonance",
+		"short-title": "Harmony of Dissonance",
+		"publisher": "KONAMI"
+	},
+	"ACHP": {
+		"internal-name": "CASTLEVANIA1",
+		"title": "Castlevania: Harmony of Dissonance",
+		"ds-title": "Castlevania\nHarmony of Dissonance",
+		"short-title": "Harmony of Dissonance",
+		"publisher": "KONAMI"
+	},
+	"AAME": {
+		"internal-name": "DRACULA AGB1",
+		"title": "Castlevania: Circle of the Moon",
+		"ds-title": "Castlevania\nCircle of the Moon",
+		"short-title": "Circle of the Moon",
+		"publisher": "KONAMI"
+	},
+	"AAMP": {
+		"internal-name": "DRACULA AGB1",
+		"title": "Castlevania",
+		"ds-title": "Castlevania",
+		"short-title": "Castlevania",
+		"publisher": "KONAMI"
+	},
+	"BXKE": {
+		"internal-name": "CV 2 PACK",
+		"title": "Castlevania Double Pack",
+		"ds-title": "Castlevania Double Pack",
+		"short-title": "Castlevania 2-in-1",
+		"publisher": "KONAMI"
+	},
+	"BXKP": {
+		"internal-name": "CV 2 PACK",
+		"title": "Castlevania Double Pack",
+		"ds-title": "Castlevania Double Pack",
+		"short-title": "Castlevania 2-in-1",
+		"publisher": "KONAMI"
+	},
+	"A5NE": {
+		"internal-name": "RAREDKC1",
+		"title": "Donkey Kong Country",
+		"ds-title": "Donkey Kong Country",
+		"short-title": "DK Country",
+		"publisher": "Nintendo"
+	},
+	"A5NP": {
+		"internal-name": "RAREDKC1",
+		"title": "Donkey Kong Country",
+		"ds-title": "Donkey Kong Country",
+		"short-title": "DK Country",
+		"publisher": "Nintendo"
+	},
+	"B2DE": {
+		"internal-name": "RAREDKC2",
+		"title": "Donkey Kong Country 2",
+		"ds-title": "Donkey Kong Country 2",
+		"short-title": "DK Country 2",
+		"publisher": "Nintendo"
+	},
+	"B2DP": {
+		"internal-name": "RAREDKC2",
+		"title": "Donkey Kong Country 2",
+		"ds-title": "Donkey Kong Country 2",
+		"short-title": "DK Country 2",
+		"publisher": "Nintendo"
+	},
+	"BDQE": {
+		"internal-name": "RAREDKC3",
+		"title": "Donkey Kong Country 3",
+		"ds-title": "Donkey Kong Country 3",
+		"short-title": "DK Country 3",
+		"publisher": "Nintendo"
+	},
+	"BDQP": {
+		"internal-name": "RAREDKC3",
+		"title": "Donkey Kong Country 3",
+		"ds-title": "Donkey Kong Country 3",
+		"short-title": "DK Country 3",
+		"publisher": "Nintendo"
+	}
+}
